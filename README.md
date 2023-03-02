@@ -13,4 +13,4 @@ Media 3 AV1 解码器
 
 打包自 [VLC-Android](https://code.videolan.org/videolan/vlc-android/-/tree/a0f588afd3626fa1e97de81603c2589a9c62b004)
 
-3.6.0-ep05
+依赖版本 `3.6.0-ep05`，`LibVLC` 版本 `3.0.18`
